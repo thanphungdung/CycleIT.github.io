@@ -6,7 +6,7 @@
 }
 
 .header{
-    background: radial-gradient(#7a0b44, #692140);
+    background: radial-gradient(#7a0b44c4, #692140d0);
     
     
 }
@@ -29,8 +29,8 @@
 
 .btn{
     display: inline-block;
-    background: #398aa5;
-    color: #fff;
+    background: white;
+    color: black;
     padding: 8px 30px;
     margin: 30px 0;
     border-radius: 30px;
